@@ -10,3 +10,4 @@ C# Virtualbox Stealth Module
 - Change RAM Information
 - Change Audio Information
 - Battery Emulation
+and more.

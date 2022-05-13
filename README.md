@@ -1,6 +1,8 @@
 # Screem
 C# Virtualbox Stealth Module
 
+This module only fakes system information and not the detection of vm itself (e.g malware anti-vm modules).
+
 ## Currently in development.
 
 ## Planned Features:

@@ -14,3 +14,9 @@ https://docs.oracle.com/en/virtualization/virtualbox/6.0/admin/changedmi.html
 - Change Audio Information
 - Battery Emulation
 and more.
+
+
+## TODO
+- Compile System Information
+- Encode to JSON
+- [Change info](https://docs.oracle.com/en/virtualization/virtualbox/6.0/admin/changedmi.html) with selected values.

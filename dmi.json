@@ -7,14 +7,8 @@
       "CPU": []
     },
     "Board": {
-      "Vendor": [
-        "vendor",
-        "vendor2"
-      ],
-      "Product": [
-        "product",
-        "product2"
-      ],
+      "Vendor": ["vendor","vendor2"],
+      "Product": ["product","product2"],
       "Version": [],
       "Serial": [],
       "Asset Tag": [],
@@ -46,6 +40,5 @@
       "Tag": []
     },
     "Device Key": []
-  },
-  "string": "Hello World"
+  }
 }

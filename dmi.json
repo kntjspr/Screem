@@ -1,0 +1,51 @@
+{
+  "DMI": {
+    "Hardware": {
+      "Platform": [],
+      "CPU Vendor": [],
+      "Socket": [],
+      "CPU": []
+    },
+    "Board": {
+      "Vendor": [
+        "vendor",
+        "vendor2"
+      ],
+      "Product": [
+        "product",
+        "product2"
+      ],
+      "Version": [],
+      "Serial": [],
+      "Asset Tag": [],
+      "Location": [],
+      "Type": []
+    },
+    "Bios": {
+      "Vendor": [],
+      "Version": [],
+      "Release Date": [],
+      "Release Ver": [],
+      "Firmware Ver": [],
+      "OEM Version": [],
+      "OEM Revision": []
+    },
+    "System": {
+      "Vendor": [],
+      "Product": [],
+      "Version": [],
+      "Serial": [],
+      "SKU": [],
+      "Family": [],
+      "UUID": []
+    },
+    "Chassis": {
+      "Vendor": [],
+      "Version": [],
+      "Serial": [],
+      "Tag": []
+    },
+    "Device Key": []
+  },
+  "string": "Hello World"
+}
